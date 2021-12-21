@@ -15,7 +15,7 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarki7&layout=compact)
 ![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=skarki7&show_icons=true&theme=radical)
 
-                                                Feel free to check my LinkedIn
+                                                  Feel free to check my LinkedIn
 <p align='center'>
 <a href="https://www.linkedin.com/in/sachin-karki7/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
