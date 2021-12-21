@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hello There!
 
-<!--
-**skarki7/skarki7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Sachin Karki, I am an international student originally from Nepal. Now I reside in the United States in the heart of Texas; Dallas. Currently I attend <a href="https://www.twu.edu/">Texas Woman's University at Denton, Texas</a> where I'm majoring in B.S in Informatics with a minor in Data Science. 
 
-Here are some ideas to get you started:
+I like to describe myself as just another aspiring data science scholar with a beginners level of knowledge, experience, and expertise in **SAS, R, SQL, Python and Java**.
+My areas of interest include **Data Analytics, Machine Learning, Data Visualization and Story-telling, Data Design, Database Management** and more. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I aspire to learn and achieve pragmatic experiences within my field of interest and I'm actively looking for oppurtunities that aligns with my interest.
+#### In addition to this, I'm also 
+- A Cinephile :clapper:
+- A Casual Gamer :video_game:
+- Traveller :world_map: 
+- Adventurer :national_park:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarki7&layout=compact)
+![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=skarki7&show_icons=true&theme=radical)
+
+                                                Feel free to check my LinkedIn
+<p align='center'>
+<a href="https://www.linkedin.com/in/sachin-karki7/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+  <p align='center'> 
+  <a href="https://github.com/skarki7/">
+    <img src="https://img.shields.io/static/v1?label=My&message=Github&color=red" />
+  </a>&nbsp;&nbsp;
+</p>
+
+
+
