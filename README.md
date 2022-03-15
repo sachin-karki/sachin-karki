@@ -1,6 +1,7 @@
 ### Hello There!
 
-My name is Sachin Karki, I am an international student originally from Nepal. Now I reside in the United States in the heart of Texas; Dallas. Currently I attend <a href="https://www.twu.edu/">Texas Woman's University at Denton, Texas</a> where I'm majoring in B.S in Informatics with a minor in Data Science. 
+My name is Sachin Karki, I am an international student originally from Nepal. Now I reside in the United States, the heart of Texas; Dallas. 
+I graduated from the <a href="https://www.twu.edu/">Texas Woman's University at Denton, Texas</a> on December of 2021 where I majored in Informatics with a minor in Data Science. 
 
 I like to describe myself as just another aspiring data science scholar with a beginners level of knowledge, experience, and expertise in **SAS, R, SQL, Python and Java**.
 My areas of interest include **Data Analytics, Machine Learning, Data Visualization and Story-telling, Data Design, Database Management** and more. 
