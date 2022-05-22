@@ -1,6 +1,7 @@
 ### Hello There!
 
-My name is Sachin Karki, I am an international student originally from Nepal. Now I reside in the United States, the heart of Texas; Dallas. 
+<h1 align="center">Hello There, I'm Sachin Karki </h1>
+I am an international student originally from Nepal. Now I reside in the United States, the heart of Texas; Dallas. 
 I graduated from the <a href="https://www.twu.edu/">Texas Woman's University</a> on May of 2022 where I majored in Informatics with a minor in Data Science. 
 
 I like to describe myself as just another aspiring data science scholar with a beginners level of knowledge, experience, and expertise in **SAS, R, SQL, Python and Java**.
