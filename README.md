@@ -13,7 +13,8 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 - Traveller :world_map: 
 - Adventurer :national_park:
 
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=skarki7&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarki7&layout=compact)
+![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=skarki7&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarki7&layout=compact)
 
                                                   Feel free to check my LinkedIn
 <p align='center'>
