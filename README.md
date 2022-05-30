@@ -16,6 +16,9 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 ![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=skarki7&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarki7&layout=compact)
 
+
+| <a href="https://github.com/skarki7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=skarki7&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sachin's github stats" /></a> | <a href="https://github.com/skarki7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarki7&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
                                                   Feel free to check my LinkedIn
 <p align='center'>
 <a href="https://www.linkedin.com/in/sachin-karki7/">
