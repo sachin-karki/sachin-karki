@@ -33,7 +33,6 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> <img height=50 src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img height=50 src="https://www.logo.wine/a/logo/Eclipse_(software)/Eclipse_(software)-Logo.wine.svg" />
-<img height=50 src="" />
 
 #### Operating Systems:
 <img height=50 src="https://user-images.githubusercontent.com/88551816/171131807-4479be47-42bf-490b-a6bf-8f17ab091a3e.png" /> <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/1200px-MacOS_logo.svg.png" />
@@ -46,7 +45,6 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 <img height=50 src="https://user-images.githubusercontent.com/88551816/171131485-977cef83-e1cf-4d6e-843c-056ea8d83eaa.png" />
-
 
 
 | <a href="https://github.com/skarki7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=skarki7&show_icons=true&theme=radical" alt="Sachin's github stats" /></a> | <a href="https://github.com/skarki7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarki7&layout=compact" /></a> |
