@@ -26,12 +26,12 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 <img height=40 src="https://p5js.org/assets/img/p5js.svg" />
 
 #### Proficient in:
-<img height=60 src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image](https://www.pngwing.com/en/free-png-cggue" /> <img height=50 src="https://user-images.githubusercontent.com/88551816/171126637-b8f154a5-7900-4879-974e-bbebd718885c.png" />
+<img height=55 src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" /> <img height=50 src="https://user-images.githubusercontent.com/88551816/171126637-b8f154a5-7900-4879-974e-bbebd718885c.png" />
 <img height=50 src="https://user-images.githubusercontent.com/88551816/171128854-a4a3c1c9-0ffb-4641-ad8c-502ca0127aaf.png" />
 
 #### Exposed to:
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> <img height=55 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img height=60 src="https://www.logo.wine/a/logo/Eclipse_(software)/Eclipse_(software)-Logo.wine.svg" />
+<img height=60 src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" />
 <img height=45 src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" />
 
 #### Operating Systems:
@@ -41,11 +41,12 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
                     
 #### Honorable Mentions
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img height=50 src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
+<img height=50 src="https://user-images.githubusercontent.com/88551816/171209226-607095b5-488c-415d-b6b8-d85d771af3af.png" /> <img height=50 src="https://user-images.githubusercontent.com/88551816/171211142-6d05f839-6a81-4979-9912-05530ae09632.png"/> 
+<img height=50 src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 <img height=50 src="https://user-images.githubusercontent.com/88551816/171131485-977cef83-e1cf-4d6e-843c-056ea8d83eaa.png" />
-<img height=50 src="https://user-images.githubusercontent.com/88551816/171209226-607095b5-488c-415d-b6b8-d85d771af3af.png" />
+
 
 
 | <a href="https://github.com/skarki7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=skarki7&show_icons=true&theme=radical" alt="Sachin's github stats" /></a> | <a href="https://github.com/skarki7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarki7&layout=compact" /></a> |
