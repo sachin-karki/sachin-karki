@@ -16,7 +16,7 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 ### Languages and Tools
 [<img align="left" alt="MySQL" width="80px" src="https://user-images.githubusercontent.com/88551816/171102914-d259698b-6024-4695-a91d-ba842d0c9c8b.png" style="padding-right:10px;" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 
 | <a href="https://github.com/skarki7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=skarki7&show_icons=true&theme=radical" alt="Sachin's github stats" /></a> | <a href="https://github.com/skarki7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarki7&layout=compact" /></a> |
 | ------------- | ------------- |
