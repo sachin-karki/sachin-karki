@@ -17,7 +17,7 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 ------------------------------------
 #### Familiar with:
 <img height=50 src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img height=50 src="https://w7.pngwing.com/pngs/830/332/png-transparent-perl-dynamic-programming-language-scripting-language-computer-programming-perl-mammal-logo-wildlife.png" />
+<img height=50 src="https://img.favpng.com/5/9/5/perl-6-programming-language-programmer-png-favpng-Nbv00U4xXP8kwhrdihsbVBMzK.jpg" /> 
 <img height=50 src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -30,8 +30,8 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 <img height=50 src="https://user-images.githubusercontent.com/88551816/171128854-a4a3c1c9-0ffb-4641-ad8c-502ca0127aaf.png" />
 
 #### Exposed to:
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img height=40 src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> <img height=53 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img height=42 src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" />
 <img height=40 src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" />
 
 #### Operating Systems:
