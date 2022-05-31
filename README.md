@@ -14,7 +14,7 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 - Adventurer :national_park:
 
 ### Languages and Tools
-[<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/88551816/171102914-d259698b-6024-4695-a91d-ba842d0c9c8b.png" style="padding-right:10px;" />]
+[<img align="left" alt="MySQL" width="40px" src="https://user-images.githubusercontent.com/88551816/171102914-d259698b-6024-4695-a91d-ba842d0c9c8b.png" style="padding-right:10px;" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Terminal" width="26px" src="https://www.iconfinder.com/icons/1012821/code_development_logo_mysql_icon" style="padding-right:10px;" />]
 [<img align="left" alt="Terminal" width="26px" src="https://www.iconfinder.com/icons/4100614/tableau_icon" style="padding-right:10px;" />]
