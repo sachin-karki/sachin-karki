@@ -26,14 +26,14 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 <img height=40 src="https://p5js.org/assets/img/p5js.svg" />
 
 #### Proficient in:
-<img height=50 src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image" /> <img height=50 src="https://user-images.githubusercontent.com/88551816/171126637-b8f154a5-7900-4879-974e-bbebd718885c.png" />
+<img height=60 src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image" /> <img height=50 src="https://user-images.githubusercontent.com/88551816/171126637-b8f154a5-7900-4879-974e-bbebd718885c.png" />
 <img height=50 src="https://user-images.githubusercontent.com/88551816/171128854-a4a3c1c9-0ffb-4641-ad8c-502ca0127aaf.png" />
 
 #### Exposed to:
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> <img height=50 src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img height=50 src="https://www.logo.wine/a/logo/Eclipse_(software)/Eclipse_(software)-Logo.wine.svg" />
-<img height=50 src="user-images.githubusercontent.com/88551816/171131214-5435c8a8-5ecc-43cd-955e-efcc2475973d.png" />
+<img height=50 src="" />
 
 #### Operating Systems:
 <img height=50 src="https://user-images.githubusercontent.com/88551816/171131807-4479be47-42bf-490b-a6bf-8f17ab091a3e.png" /> <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/1200px-MacOS_logo.svg.png" />
