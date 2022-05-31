@@ -17,7 +17,7 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 ------------------------------------
 #### Familiar with:
 <img height=50 src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img height=50 src="https://img.favpng.com/5/9/5/perl-6-programming-language-programmer-png-favpng-Nbv00U4xXP8kwhrdihsbVBMzK.jpg" /> 
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" />
 <img height=50 src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
