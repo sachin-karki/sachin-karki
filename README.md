@@ -16,7 +16,8 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 ### Languages and Tools
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
+[<img align="left" alt="Terminal" width="26px" src="https://www.iconfinder.com/icons/1012821/code_development_logo_mysql_icon" style="padding-right:10px;" />]
+[<img align="left" alt="Terminal" width="26px" src="https://www.iconfinder.com/icons/4100614/tableau_icon" style="padding-right:10px;" />]
 
 | <a href="https://github.com/skarki7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=skarki7&show_icons=true&theme=radical" alt="Sachin's github stats" /></a> | <a href="https://github.com/skarki7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarki7&layout=compact" /></a> |
 | ------------- | ------------- |
