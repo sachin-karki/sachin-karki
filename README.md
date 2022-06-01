@@ -51,7 +51,7 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 
 | <a href="https://github.com/skarki7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=skarki7&show_icons=true&theme=radical" alt="Sachin's github stats" /></a> | <a href="https://github.com/skarki7/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarki7&layout=compact" /></a> |
 | ------------- | ------------- |
-                                                  *Feel free to check my LinkedIn*
+                                                  *Feel free to check my LinkedIn and my web portfolio
 <p align='center'>
 <a href="https://www.linkedin.com/in/sachin-karki7/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -59,7 +59,7 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 
   <p align='center'> 
   <a href="https://github.com/skarki7/">
-    <img src="https://img.shields.io/static/v1?label=My&message=Github&color=red" />
+    <img src="https://img.shields.io/static/v1?label=My&message=Web Portfolio&color=red" />
   </a>&nbsp;&nbsp;
 </p>
 
