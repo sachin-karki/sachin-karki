@@ -53,7 +53,7 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 | ------------- | ------------- |
 
 <p align="center">
-  Feel free to check my LinkedIn and my web portfolio
+  <i>Feel free to check my LinkedIn and my web portfolio</i>
 </p>
 <p align='center'>
 <a href="https://www.linkedin.com/in/sachin-karki7/">
