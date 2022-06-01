@@ -58,7 +58,7 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 </a>&nbsp;&nbsp;
 
   <p align='center'> 
-  <a href="https://github.com/skarki7/">
+  <a href="https://sachin-karki.github.io">
     <img src="https://img.shields.io/static/v1?label=My&message=Web Portfolio&color=red" />
   </a>&nbsp;&nbsp;
 </p>
