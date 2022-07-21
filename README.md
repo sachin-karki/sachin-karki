@@ -66,7 +66,8 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
   </a>&nbsp;&nbsp;
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sachin-karki&label=Profile%20views&color=red&style=flat" alt="sachin-karki" /> </p>
+<p align='center'> 
+<img src="https://komarev.com/ghpvc/?username=sachinkarki&label=Profile%20views&color=red&style=flat" alt="sachin-karki" /> </p>
 
 
 
