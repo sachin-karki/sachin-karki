@@ -1,4 +1,6 @@
 <h1 align="center">👋Hello There, I'm Sachin Karki </h1>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachin-karki alt=sachin-karki/> </p>
+
 
 I am an international student originally from Nepal. Now I reside in the United States, the heart of Texas; Dallas. 
 I graduated from the <a href="https://www.twu.edu/">Texas Woman's University</a> on May of 2022 where I majored in Informatics with a minor in Data Science. 
@@ -65,6 +67,3 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
     <img src="https://img.shields.io/static/v1?label=My&message=Web Portfolio&color=red" />
   </a>&nbsp;&nbsp;
 </p>
-
-<p align='center'> 
-<img src="https://komarev.com/ghpvc/?username=sachinkarki&label=Profile%20views&color=red&style=flat" alt="sachin-karki" /> </p>
