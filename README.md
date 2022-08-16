@@ -69,5 +69,7 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 <p align='center'> 
 <img src="https://komarev.com/ghpvc/?username=sachinkarki&label=Profile%20views&color=red&style=flat" alt="sachin-karki" /> </p>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 
