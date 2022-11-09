@@ -16,6 +16,8 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 - Traveller :world_map: 
 - Adventurer :national_park:
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sachin-karki&title=Stars,Followers,PullRequest,Commits,Repositories&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Languages and Tools
 ------------------------------------
 #### Familiar with:
@@ -51,8 +53,6 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 <img height=50 src="https://user-images.githubusercontent.com/88551816/171209226-607095b5-488c-415d-b6b8-d85d771af3af.png" /> <img height=50 src="https://user-images.githubusercontent.com/88551816/171211142-6d05f839-6a81-4979-9912-05530ae09632.png"/> 
 <img height=50 src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sachin-karki&title=Stars,Followers,PullRequest,Commits,Repositories&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <i>Feel free to check my LinkedIn and my web portfolio</i>
