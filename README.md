@@ -16,7 +16,8 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 - Traveller :world_map: 
 - Adventurer :national_park:
 
-### Trophies 
+### Trophies
+-------------
 [![trophy](https://github-profile-trophy.vercel.app/?username=sachin-karki&title=Stars,Followers,PullRequest,Commits,Repositories&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Languages and Tools
