@@ -1,6 +1,7 @@
 <h1 align="center">👋Hello There, I'm Sachin </h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin-karki)](https://github.com/anuraghazra/github-readme-stats)
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin-karki&show_icons=true&theme=dracula) | <a href="https://github.com/sachin-karki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-karki&langs_count=8&layout=compact&hide=scss"/></a> |
+| ------------- | ------------- |
 
 I am an international student originally from Nepal. Now I reside in the United States, the heart of Texas; Dallas. 
 I graduated from the <a href="https://www.twu.edu/">Texas Woman's University</a> on May of 2022 where I majored in Informatics with a minor in Data Science. 
@@ -50,9 +51,6 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 <img height=50 src="https://user-images.githubusercontent.com/88551816/171209226-607095b5-488c-415d-b6b8-d85d771af3af.png" /> <img height=50 src="https://user-images.githubusercontent.com/88551816/171211142-6d05f839-6a81-4979-9912-05530ae09632.png"/> 
 <img height=50 src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin-karki&show_icons=true&theme=dracula) | <a href="https://github.com/sachin-karki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-karki&langs_count=8&layout=compact&hide=scss"/></a> |
-| ------------- | ------------- |
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sachin-karki&title=Stars,Followers,PullRequest,Commits,Repositories&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
