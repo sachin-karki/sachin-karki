@@ -49,10 +49,6 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 <img height=50 src="https://user-images.githubusercontent.com/88551816/171209226-607095b5-488c-415d-b6b8-d85d771af3af.png" /> <img height=50 src="https://user-images.githubusercontent.com/88551816/171211142-6d05f839-6a81-4979-9912-05530ae09632.png"/> 
 <img height=50 src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
-<img height=50 src="https://user-images.githubusercontent.com/88551816/171131485-977cef83-e1cf-4d6e-843c-056ea8d83eaa.png" />
-
-
 
 | <a href="https://github.com/sachin-karki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin-karki&show_icons=true&theme=radical" alt="Sachin's github stats" /></a> | <a href="https://github.com/sachin-karki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-karki&langs_count=8&layout=compact&hide=scss"/></a> |
 | ------------- | ------------- |
