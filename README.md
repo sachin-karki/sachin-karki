@@ -52,7 +52,7 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin-karki&show_icons=true&theme=dracula)
-<a href="https://github.com/sachin-karki"> | <a href="https://github.com/sachin-karki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-karki&langs_count=8&layout=compact&hide=scss"/></a> |
+<a href="https://github.com/sachin-karki"> | <a href="https://github.com/sachin-karki/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-karki&langs_count=8&layout=compact&hide=scss"/>< /a> |
 | ------------- | ------------- |
 
 
