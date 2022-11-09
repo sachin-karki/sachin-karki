@@ -51,7 +51,7 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 <img height=50 src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-| <a href="https://github.com/sachin-karki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin-karki&show_icons=true&theme=dracula" alt="Sachin's github stats" /></a> | <a href="https://github.com/sachin-karki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-karki&langs_count=8&layout=compact&hide=scss"/></a> |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) | <a href="https://github.com/sachin-karki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-karki&langs_count=8&layout=compact&hide=scss"/></a> |
 | ------------- | ------------- |
 
 
