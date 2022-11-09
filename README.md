@@ -27,11 +27,11 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 <img height=50 src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" />
 <img height=40 src="https://p5js.org/assets/img/p5js.svg" />
 
-#### Proficient in:
+#### Proficient at:
 <img height=55 src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" /> <img height=50 src="https://user-images.githubusercontent.com/88551816/171126637-b8f154a5-7900-4879-974e-bbebd718885c.png" />
 <img height=50 src="https://user-images.githubusercontent.com/88551816/171128854-a4a3c1c9-0ffb-4641-ad8c-502ca0127aaf.png" />
 
-#### Exposed to:
+#### Experienced in:
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> <img height=53 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img height=42 src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" />
 <img height=40 src="https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg" />
