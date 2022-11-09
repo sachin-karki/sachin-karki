@@ -1,5 +1,7 @@
 <h1 align="center">👋Hello There, I'm Sachin </h1>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin-karki)](https://github.com/anuraghazra/github-readme-stats)
+
 I am an international student originally from Nepal. Now I reside in the United States, the heart of Texas; Dallas. 
 I graduated from the <a href="https://www.twu.edu/">Texas Woman's University</a> on May of 2022 where I majored in Informatics with a minor in Data Science. 
 
