@@ -54,6 +54,8 @@ I aspire to learn and achieve pragmatic experiences within my field of interest 
 | <a href="https://github.com/sachin-karki"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin-karki&show_icons=true&theme=radical" alt="Sachin's github stats" /></a> | <a href="https://github.com/sachin-karki"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-karki&langs_count=8&layout=compact&hide=scss"/></a> |
 | ------------- | ------------- |
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sachin-karki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center">
   <i>Feel free to check my LinkedIn and my web portfolio</i>
 </p>
