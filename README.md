@@ -3,19 +3,15 @@
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin-karki&show_icons=true&theme=dracula) | <a href="https://github.com/sachin-karki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-karki&langs_count=8&layout=compact&hide=scss"/></a> |
 | ------------- | ------------- |
 
-I am an international student originally from Nepal. Now I reside in the United States, the heart of Texas; Dallas. 
-I graduated from the <a href="https://www.twu.edu/">Texas Woman's University</a> on May of 2022 where I majored in Informatics with a minor in Data Science. 
+### About Myself
+An international student currently residing and based in Dallas Texas. I graduated from the <a href="https://www.twu.edu/">Texas Woman's University</a> on May of 2022 where I majored in Informatics with a minor in Data Science. 
 
-I like to describe myself as just another aspiring data science scholar with a beginners level of knowledge, experience, and expertise in **SAS, R, SQL, Python and Java**.
-My areas of interest include **Data Analytics, Machine Learning, Data Visualization and Story-telling, Data Design, Database Management** and more. 
+I like to describe myself as an aspiring data science scholar with a beginners level of knowledge, experience, and expertise in **SAS, R, SQL, Python and Java**.
+My areas of interest include **Data Analytics, Machine Learning, Data Visualization and Story-telling, Data Design, Database Management** and just about anything that's data oriented.
 
-I aspire to learn and achieve pragmatic experiences within my field of interest and I'm actively looking for oppurtunities that aligns with my interest.
+I aspire to learn and achieve pragmatic experiences within my areas of interest and I'm actively looking for oppurtunities that aligns with those areas.
 #### In addition to this, I'm also 
-- A Cinephile :clapper:
-- A Casual Gamer :video_game:
-- Traveller :world_map: 
-- Adventurer :national_park:
-
+• A Cinephile 🎬 • Traveller ✈️ • Casual Gamer 🎮 • Adventurer 🏞️
 ### Trophies
 -------------
 [![trophy](https://github-profile-trophy.vercel.app/?username=sachin-karki&title=Stars,Followers,PullRequest,Commits,Repositories&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
