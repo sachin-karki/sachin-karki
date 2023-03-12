@@ -4,7 +4,7 @@
 | ------------- | ------------- |
 
 ### About Myself
-An international student currently residing and based in Dallas Texas. I graduated from the <a href="https://www.twu.edu/">Texas Woman's University</a> on May of 2022 where I majored in Informatics with a minor in Data Science. 
+I'm an international student currently residing and based in Dallas Texas. I graduated from the <a href="https://www.twu.edu/">Texas Woman's University</a> on May of 2022 where I majored in Informatics with a minor in Data Science. 
 
 I like to describe myself as an aspiring data science scholar with a beginners level of knowledge, experience, and expertise in **SAS, R, SQL, Python and Java**.
 My areas of interest include **Data Analytics, Machine Learning, Data Visualization and Story-telling, Data Design, Database Management** and just about anything that's data oriented.
