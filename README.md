@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello There, I'm Sachin </h1>
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin-karki&show_icons=true&theme=dracula) | <a href="https://github.com/sachin-karki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-karki&langs_count=10&layout=compact&hide=scss,nix"/></a> |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin-karki&show_icons=true&theme=gruvbox) | <a href="https://github.com/sachin-karki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-karki&langs_count=10&layout=compact&hide=scss,nix"/></a> |
 | ------------- | ------------- |
 
 ### About Myself
