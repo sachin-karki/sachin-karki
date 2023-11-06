@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello There, I'm Sachin </h1>
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin-karki&show_icons=true&theme=dracula) | <a href="https://github.com/sachin-karki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-karki&langs_count=8&layout=compact&hide=scss"/></a> |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin-karki&show_icons=true&theme=dracula) | <a href="https://github.com/sachin-karki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-karki&langs_count=10&layout=compact&hide=scss"/></a> |
 | ------------- | ------------- |
 
 ### About Myself
@@ -14,7 +14,7 @@ I aspire to learn and achieve pragmatic experiences within my areas of interest 
 • A Cinephile 🎬 • Traveller ✈️ • Casual Gamer 🎮 • Adventurer 🏞️
 ### Trophies
 -------------
-[![trophy](https://github-profile-trophy.vercel.app/?username=sachin-karki)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy]([![trophy](https://github-profile-trophy.vercel.app/?username=sachin-karki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy))](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Languages and Tools
 ------------------------------------
