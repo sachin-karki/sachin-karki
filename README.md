@@ -4,17 +4,18 @@
 | ------------- | ------------- |
 
 ### About Myself
-I'm an international student currently residing and based in Dallas Texas. I graduated from the <a href="https://www.twu.edu/">Texas Woman's University</a> on May of 2022 where I majored in Informatics with a minor in Data Science. 
+I'm an international student currently residing and based in Dallas Texas. I graduated from the <a href="https://www.twu.edu/">Texas Woman's University</a> in May of 2022 where I majored in Informatics with a minor in Data Science. 
 
-I like to describe myself as an aspiring data science scholar with a beginners level of knowledge, experience, and expertise in **SAS, R, SQL, Python and Java**.
-My areas of interest include **Data Analytics, Machine Learning, Data Visualization and Story-telling, Data Design, Database Management** and just about anything that's data oriented.
+I like to describe myself as an aspiring data science scholar with a beginner's level of knowledge, experience, and expertise in **SAS, R, SQL, Python, and Java**.
+My areas of interest include **Data Analytics, Machine Learning, Data Visualization and Storytelling, Data Design, Database Management** and just about anything that's data-oriented.
 
-I aspire to learn and achieve pragmatic experiences within my areas of interest and I'm actively looking for oppurtunities that aligns with those areas.
+I aspire to learn and achieve pragmatic experiences within my areas of interest and I'm actively looking for opportunities that align with those areas.
 #### In addition to this, I'm also 
 • A Cinephile 🎬 • Traveller ✈️ • Casual Gamer 🎮 • Adventurer 🏞️
 ### Trophies
 -------------
-(https://github-profile-trophy.vercel.app/?username=sachin-karki&theme=gruvbox)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sachin-karki&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 ------------------------------------
 #### Familiar with:
 <img height=50 src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" /> <img height=49 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
