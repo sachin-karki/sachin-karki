@@ -2,7 +2,7 @@
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin-karki&show_icons=true&theme=dracula) | <a href="https://github.com/sachin-karki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-karki&langs_count=10&layout=compact&hide=scss"/></a> |
 | ------------- | ------------- |
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 ### About Myself
 I'm an international student currently residing and based in Dallas Texas. I graduated from the <a href="https://www.twu.edu/">Texas Woman's University</a> in May of 2022 where I majored in Informatics with a minor in Data Science. 
 
