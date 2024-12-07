@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello There, I'm Sachin </h1>
+<h1 align="center"> https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif Hello There, I'm Sachin </h1>
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin-karki&show_icons=true&theme=gruvbox) | <a href="https://github.com/sachin-karki/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-karki&langs_count=11&layout=compact&hide=scss,nix"/></a> |
 | ------------- | ------------- |
