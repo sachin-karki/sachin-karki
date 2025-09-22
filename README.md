@@ -4,10 +4,10 @@
 | ------------- | ------------- |
 
 ### About Myself
-I'm an international student currently residing and based in Jackson, MS. I currently attend the University of Mississippi Medical Center for my pursuit of a PhD. in Biostatistics and Data Science. Before that, I graduated from Texas Woman's University in May of 2022, where I majored in B.S. Informatics with a minor in Data Science.
+I'm an international student (from Nepal) currently residing and based in Jackson, MS. I have been attending the University of Mississippi Medical Center (UMMC) since 2023 for my pursuit of Masters and PhD. in Biostatistics and Data Science. I completed my Master's degree in May 2025 and I have been continuing my PhD since then. Before that, I graduated with Bachelor's in Informatics and a minor in Data Science from the Texas Woman's University (Denton, TX) in May 2022. I am a graduate research assistant at the Dept. of Biostatistics and Data Science at UMMC's School of Population Health. I also work as a biostatistican and data scientist at the UMMC Center for Telehealth and Emerging Technology which is a research wing of my university.
 
 I like to describe myself as an aspiring data science scholar with an intermediate level of knowledge, experience, and expertise in **R, Python, SAS, SQL, and Java**.
-My areas of interest include **Machine Learning, Deep Learning, Data Visualization and Storytelling in Bio-Medical Field.** Along with this I also have a background, education and working experience in **Statistical Analysis, Medical Research, Data Analytics** and just about anything that's data-oriented.
+My primary areas of interest include **Machine Learning, Deep Learning, AI, Data Visualization and Storytelling in Bio-Medical Field.** Along with this I also have a background, education and working experience in **Statistical Analysis, Medical Research, Data Analytics** and just about anything that's data-oriented.
 
 I aspire to learn and achieve pragmatic experiences within my areas of interest and I'm actively looking for opportunities that align with those areas.
 #### In addition to this, I'm also 
