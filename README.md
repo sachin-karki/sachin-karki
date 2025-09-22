@@ -4,10 +4,10 @@
 | ------------- | ------------- |
 
 ### About Myself
-I'm an international student currently residing and based in Jackson, MS. I currently attend the University of Mississippi Medical Center for my pursuit of an M.S. and PhD. in Biostatistics and Data Science. Before that, I graduated from Texas Woman's University in May of 2022, where I majored in B.S. Informatics with a minor in Data Science.
+I'm an international student currently residing and based in Jackson, MS. I currently attend the University of Mississippi Medical Center for my pursuit of a PhD. in Biostatistics and Data Science. Before that, I graduated from Texas Woman's University in May of 2022, where I majored in B.S. Informatics with a minor in Data Science.
 
-I like to describe myself as an aspiring data science scholar with a beginner's level of knowledge, experience, and expertise in **SAS, R, SQL, Python, and Java**.
-My areas of interest include **Data Analytics, Machine Learning, Data Visualization and Storytelling, Business Intelligence, Database Management**, and just about anything that's data-oriented.
+I like to describe myself as an aspiring data science scholar with an intermediate level of knowledge, experience, and expertise in **R, Python, SAS, SQL, and Java**.
+My areas of interest include **Machine Learning, Deep Learning, Data Visualization and Storytelling in Bio-Medical Field.** Along with this I also have a background, education and working experience in **Statistical Analysis, Medical Research, Data Analytics** and just about anything that's data-oriented.
 
 I aspire to learn and achieve pragmatic experiences within my areas of interest and I'm actively looking for opportunities that align with those areas.
 #### In addition to this, I'm also 
