@@ -13,9 +13,8 @@ I aspire to learn and achieve pragmatic experiences within my areas of interest 
 • A Cinephile 🎬 • Traveller ✈️ • Casual Gamer 🎮 • Adventurer 🏞️
 ### Trophies
 -------------
-[![trophy](https://github-profile-trophy.vercel.app/?username=sachin-karki&theme=gruvbox&title=MultiLanguage,Commits,Repositories,Experience,Stars,Followers,)](https://github.com/ryo-ma/github-profile-trophy)
 
-https://github-profile-trophy.vercel.app/?username=sachin-karki&theme=onedark
+[![trophy](https://github-profile-trophy.vercel.app/?username=sachin-karki)](https://github.com/ryo-ma/github-profile-trophy)
 
 ------------------------------------
 #### Familiar with:
