@@ -14,7 +14,7 @@ I aspire to learn and achieve pragmatic experiences within my areas of interest 
 ### Trophies
 -------------
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sachin-karki)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sachin-karki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ------------------------------------
 #### Familiar with:
