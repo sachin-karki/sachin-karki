@@ -15,7 +15,7 @@ I aspire to learn and achieve pragmatic experiences within my areas of interest 
 -------------
 [![trophy](https://github-profile-trophy.vercel.app/?username=sachin-karki&theme=gruvbox&title=MultiLanguage,Commits,Repositories,Experience,Stars,Followers,)](https://github.com/ryo-ma/github-profile-trophy)
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
+https://github-profile-trophy.vercel.app/?username=sachin-karki&theme=onedark
 
 ------------------------------------
 #### Familiar with:
