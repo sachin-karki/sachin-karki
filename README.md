@@ -34,14 +34,12 @@ I aspire to learn and achieve pragmatic experiences within my areas of interest 
 <img height=50 src="https://user-images.githubusercontent.com/88551816/171128854-a4a3c1c9-0ffb-4641-ad8c-502ca0127aaf.png" />
 
 #### Experienced in:
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> 
-<img height=53 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> <img height=53 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img height=42 src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" />
 <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" />
 
 #### Operating Systems:
-<img height=50 src="https://user-images.githubusercontent.com/88551816/171131807-4479be47-42bf-490b-a6bf-8f17ab091a3e.png" /> 
-<img height=50 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/1920px-MacOS_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" />
+<img height=50 src="https://user-images.githubusercontent.com/88551816/171131807-4479be47-42bf-490b-a6bf-8f17ab091a3e.png" /> <img height=50 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/1920px-MacOS_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
