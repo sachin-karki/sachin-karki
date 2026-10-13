@@ -16,11 +16,7 @@ I aspire to learn and achieve pragmatic experiences within my areas of interest 
 -------------------------------------
 [![trophy](https://github-profile-trophy.vercel.app/?username=sachin-karki&theme=chalk)](https://github.com/sachin-karki/github-profile-trophy)
 
-------------------------------------
-<div align="center">### An Overview of all the Tools and Technologies I use:</div>
-<h3 align="center"><b>Your Bold Centered Heading</b></h3>
-
--------------------------------------
+<h3 align="center"><b>An Overview of all the Tools and Technologies I use</b></h3>
 
 #### Familiar with:
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=50 src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" /> 
