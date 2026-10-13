@@ -35,7 +35,8 @@ I aspire to learn and achieve pragmatic experiences within my areas of interest 
 
 #### Experienced in:
 <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> <img height=53 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> 
+<img height=53 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img height=42 src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" />
 
 #### Operating Systems:
