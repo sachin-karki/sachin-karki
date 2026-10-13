@@ -29,7 +29,6 @@ I aspire to learn and achieve pragmatic experiences within my areas of interest 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img height=40 src="https://p5js.org/assets/img/p5js.svg" />
 
-
 #### Proficient at:
 <img height=60 src="https://www.freelogovectors.net/wp-content/uploads/2023/11/power_bi-logo-freelogovectors.net_.png" /> <img height=55 src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" /> 
 <img height=50 src="https://user-images.githubusercontent.com/88551816/171126637-b8f154a5-7900-4879-974e-bbebd718885c.png" />
