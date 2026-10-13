@@ -18,6 +18,8 @@ I aspire to learn and achieve pragmatic experiences within my areas of interest 
 
 ------------------------------------
 <div align="center">### An Overview of all the Tools and Technologies I use:</div>
+<h3 align="center"><b>Your Bold Centered Heading</b></h3>
+
 -------------------------------------
 
 #### Familiar with:
