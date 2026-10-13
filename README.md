@@ -40,7 +40,8 @@ I aspire to learn and achieve pragmatic experiences within my areas of interest 
 <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" />
 
 #### Operating Systems:
-<img height=50 src="https://user-images.githubusercontent.com/88551816/171131807-4479be47-42bf-490b-a6bf-8f17ab091a3e.png" /> <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/2060px-MacOS_logo_%282017%29.svg.png" />
+<img height=50 src="https://user-images.githubusercontent.com/88551816/171131807-4479be47-42bf-490b-a6bf-8f17ab091a3e.png" /> 
+<img height=50 src="https://commons.wikimedia.org/wiki/File:MacOS_logo.svg#/media/File:MacOS_logo.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
