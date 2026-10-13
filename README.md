@@ -30,8 +30,8 @@ I aspire to learn and achieve pragmatic experiences within my areas of interest 
 
 
 #### Proficient at:
-<img height=55 src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" /> <img height=50 src="https://user-images.githubusercontent.com/88551816/171126637-b8f154a5-7900-4879-974e-bbebd718885c.png" />
-<img height=55 src="https://www.freelogovectors.net/wp-content/uploads/2023/11/power_bi-logo-freelogovectors.net_.png" />
+<img height=55 src="https://www.freelogovectors.net/wp-content/uploads/2023/11/power_bi-logo-freelogovectors.net_.png" /> <img height=55 src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" /> 
+<img height=50 src="https://user-images.githubusercontent.com/88551816/171126637-b8f154a5-7900-4879-974e-bbebd718885c.png" />
 <img height=50 src="https://user-images.githubusercontent.com/88551816/171128854-a4a3c1c9-0ffb-4641-ad8c-502ca0127aaf.png" />
 
 #### Experienced in:
