@@ -41,7 +41,7 @@ I aspire to learn and achieve pragmatic experiences within my areas of interest 
 
 #### Operating Systems:
 <img height=50 src="https://user-images.githubusercontent.com/88551816/171131807-4479be47-42bf-490b-a6bf-8f17ab091a3e.png" /> 
-<img height=50 src="https://commons.wikimedia.org/wiki/File:MacOS_logo.svg#/media/File:MacOS_logo.svg" />
+<img height=50 src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/1920px-MacOS_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
