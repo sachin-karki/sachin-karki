@@ -17,14 +17,14 @@ I aspire to learn and achieve pragmatic experiences within my areas of interest 
 
 ------------------------------------
 #### Familiar with:
-<img height=50 src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" /> <img height=49 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=50 src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" /> 
+<img height=50 src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" />
+<img height=40 src="https://www.stata.com/includes/images/stata-logo-blue.svg" />
+<img height=49 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" />
 <img height=50 src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg"/>
-<img height=40 src="https://www.stata.com/includes/images/stata-logo-blue.svg" />
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height=50 src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" />
 <img height=40 src="https://p5js.org/assets/img/p5js.svg" />
 
 
