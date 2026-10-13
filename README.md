@@ -17,6 +17,8 @@ I aspire to learn and achieve pragmatic experiences within my areas of interest 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sachin-karki&theme=chalk)](https://github.com/sachin-karki/github-profile-trophy)
 
 ------------------------------------
+<div align="center">This text is centered</div>
+
 ### An Overview of all the Tools and Technologies I use:
 -------------------------------------
 
