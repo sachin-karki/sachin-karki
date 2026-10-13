@@ -11,15 +11,15 @@ My primary areas of interest include **Machine Learning, Deep Learning, LLMs/AI,
 I aspire to learn and achieve pragmatic experiences within my areas of interest and I'm actively looking for opportunities that align with those areas.
 #### In addition to this, I'm also 
 • A Cinephile 🎬 • Traveller ✈️ • Casual Gamer 🎮 • Adventurer 🏞️
+
 ### Trophies
--------------
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=chalk)](https://github.com/sachin-karki/github-profile-trophy)
-http://trophy.ryglcloud.net/?username=sachin-karki
-[![trophy](https://${PUBLIC_DOMAIN}.zeabur.app/?username=sachin-karki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+-------------------------------------
+[![trophy](https://github-profile-trophy.vercel.app/?username=sachin-karki&theme=chalk)](https://github.com/sachin-karki/github-profile-trophy)
 
 ------------------------------------
+### An Overview of all the Tools and Technologies I use:
+-------------------------------------
+
 #### Familiar with:
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=50 src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" /> 
 <img height=50 src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" />
